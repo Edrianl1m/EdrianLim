@@ -1,20 +1,27 @@
-# HI, I'm Edrian Lim
+# 👋 Hi, I'm Edrian Lim
 
-# &#x20;Project Portfolio
+### IT Student | Web Developer | Game Developer
 
-Welcome to my project portfolio repository. This repository contains a collection of systems and applications I have developed as part of my studies and personal learning journey in Information Technology.
+I am an Information Technology student passionate about coding, problem-solving, and building practical applications. I enjoy developing web systems, games, and software projects while continuously learning new technologies.
 
-## About Me
+---
 
-I am an IT student passionate about coding and continuously learning new technologies. I enjoy building practical applications that solve real-world problems and help me improve my programming skills.
-
-## Projects
+## 🚀 Featured Projects
 
 ### 🍞 ITinapay System
 
-A bakery management system designed to streamline business operations, including product management, customer management, and order tracking.
+**Bakery Management System**
 
-**Technologies Used:**
+A complete bakery management solution designed to streamline product management, customer records, inventory tracking, and order processing.
+
+📷 Screenshot:
+![ITinapay System](images/itinapay-preview.png)
+
+🔗 Live Demo: [Add Link Here]
+
+🔗 GitHub Repository: [Add Repository Link Here]
+
+**Tech Stack**
 
 * PHP
 * MySQL
@@ -22,52 +29,103 @@ A bakery management system designed to streamline business operations, including
 * CSS
 * JavaScript
 
-### 👥 A 2D top-down OpenWorld Game 
+---
 
-A game That satisfy your desires. No dedicated GPU required, No Endless Grinding, A great story, and A Vast World to Enjoy
+### 🎮 Open World RPG
 
-**Technologies Used:**
+**2D Top-Down Adventure Game**
 
-Godot
+A story-driven open-world game featuring exploration, quests, NPC interactions, and progression without excessive grinding.
 
-* GDscript
+📷 Screenshot:
+![Open World Game](images/game-preview.png)
+
+🎥 Gameplay Video: [Add Video Link Here]
+
+🔗 GitHub Repository: [Add Repository Link Here]
+
+**Tech Stack**
+
+* Godot Engine
+* GDScript
+
+---
 
 ### 🌦️ Weather App
 
-A responsive weather application that provides real-time weather information and forecasts using the OpenWeather API.
+**Real-Time Weather Forecast Application**
 
-**Technologies Used**
+A responsive web application that provides weather information and 5-day forecasts using the OpenWeather API.
+
+📷 Screenshot:
+![Weather App](images/weather-preview.png)
+
+🔗 Live Demo: [Add Link Here]
+
+🔗 GitHub Repository: [Add Repository Link Here]
+
+**Tech Stack**
 
 * HTML
 * CSS
 * JavaScript
 * OpenWeather API
 
-### 📚 Java Data Structures Projects
+---
 
-A collection of Java applications demonstrating data structure concepts such as linked lists, searching, sorting, and data management.
+### 📚 Java Data Structures
 
-**Technologies Used:**
+**Data Structures and Algorithms Collection**
+
+A collection of Java implementations demonstrating linked lists, sorting algorithms, searching techniques, and data management concepts.
+
+📷 Screenshot:
+![Java Projects](images/java-preview.png)
+
+🔗 GitHub Repository: [Add Repository Link Here]
+
+**Tech Stack**
 
 * Java
-
-## Skills
-
-* PHP
-* MySQL
-* Java
-* JavaScript
-* HTML
-* CSS
-* Database Design
-* Web Development
-* Godot
-* GDscript
-
-## Contact
-
-GitHub: EdrianL1m
 
 ---
 
-Thank you for visiting my portfolio repository.
+## 💻 Skills
+
+### Languages
+
+* PHP
+* Java
+* JavaScript
+* GDScript
+* SQL
+
+### Web Development
+
+* HTML
+* CSS
+* Bootstrap
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* XAMPP
+* Godot Engine
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdrianL1m\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdrianL1m\&layout=compact)
+
+---
+
+## 📬 Contact
+
+🐙 GitHub: https://github.com/EdrianL1m
+
+Thank you for visiting my portfolio.
