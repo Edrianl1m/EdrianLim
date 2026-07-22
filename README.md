@@ -1,4 +1,4 @@
-# HI, I'm Edrian Lim,
+# HI, I'm Edrian Lim
 
 # &#x20;Project Portfolio
 
