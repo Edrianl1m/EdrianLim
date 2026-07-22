@@ -17,9 +17,9 @@ A complete bakery management solution designed to streamline product management,
 📷 Screenshot:
 ![ITinapay System](images/itinapay-preview.png)
 
-🔗 Live Demo: [Add Link Here]
+🔗 Live Demo: 
 
-🔗 GitHub Repository: [Add Repository Link Here]
+🔗 GitHub Repository:
 
 **Tech Stack**
 
@@ -40,9 +40,9 @@ A story-driven open-world game featuring exploration, quests, NPC interactions, 
 📷 Screenshot:
 ![Open World Game](images/game-preview.png)
 
-🎥 Gameplay Video: [Add Video Link Here]
+🎥 Gameplay Video: 
 
-🔗 GitHub Repository: [Add Repository Link Here]
+🔗 GitHub Repository: 
 
 **Tech Stack**
 
@@ -60,9 +60,9 @@ A responsive web application that provides weather information and 5-day forecas
 📷 Screenshot:
 ![Weather App](images/weather-preview.png)
 
-🔗 Live Demo: [Add Link Here]
+🔗 Live Demo:
 
-🔗 GitHub Repository: [Add Repository Link Here]
+🔗 GitHub Repository:
 
 **Tech Stack**
 
@@ -82,7 +82,7 @@ A collection of Java implementations demonstrating linked lists, sorting algorit
 📷 Screenshot:
 ![Java Projects](images/java-preview.png)
 
-🔗 GitHub Repository: [Add Repository Link Here]
+🔗 GitHub Repository:
 
 **Tech Stack**
 
